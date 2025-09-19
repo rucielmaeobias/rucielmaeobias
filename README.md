@@ -1,4 +1,4 @@
-## Hi there IM Ruciel Mae Obias 👋
+## Hi there, Im Ruciel Mae Obias 👋
 
 <!--
 **rucielmaeobias/rucielmaeobias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
